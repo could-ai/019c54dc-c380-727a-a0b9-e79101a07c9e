@@ -54,7 +54,7 @@ The text presents spectroscopic data suggesting long-lived quantum coherence at 
 While the structural dynamics are well-documented, the functional correlation between excitonic energy transfer and reaction center turnover rates remains under-explored in vivo.
 
 # Synthesis
-The proposed mechanism challenges classical hopping models. If validated, this necessitates a revision of the standard excitonic transfer theory in biological systems ($H = \\sum \\epsilon_i |i\\rangle\\langle i| + \\sum J_{ij} |i\\rangle\\langle j|$).
+The proposed mechanism challenges classical hopping models. If validated, this necessitates a revision of the standard excitonic transfer theory in biological systems (\$H = \\sum \\epsilon_i |i\\rangle\\langle i| + \\sum J_{ij} |i\\rangle\\langle j|\$).
 ''';
     }
   }
